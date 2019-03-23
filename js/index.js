@@ -4,3 +4,6 @@ function test() {
     console.log("管理員");
   }
 }
+function add(){
+    return 2;
+}
