@@ -5,3 +5,9 @@
 div{
     font-size: 16px;
 }
+.content{
+    color: #f00;
+}
+#nav{
+    width: 100%;
+}
