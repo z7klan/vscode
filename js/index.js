@@ -13,7 +13,7 @@ function eidt(){
 var branch = "master"
 function branchTest(){
     if(branch == "master"){
-      console.log("master")
+      console.log("dev")
     }
 }
 var a= 'master branch'
