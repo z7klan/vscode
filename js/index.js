@@ -8,5 +8,5 @@ function add(){
     return 2;
 }
 function eidt(){
-    
+    console.log("1")
 }
