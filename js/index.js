@@ -31,3 +31,4 @@ var b = null
 function bug(){
   console.log("1")
 }
+var github = "修改遠程倉庫名"
