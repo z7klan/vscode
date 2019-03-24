@@ -26,7 +26,7 @@ function dev(){
   }
   var arr = [1,2,3,4]
 }
-var a= 'dev branch bug fixed'
+var a= 'master branch conflict'
 var b = null
 function bug(){
   console.log("1")
