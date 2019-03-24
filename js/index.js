@@ -28,3 +28,6 @@ function dev(){
 }
 var a= 'dev branch bug fixed'
 var b = null
+function bug(){
+  console.log("1")
+}
