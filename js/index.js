@@ -10,8 +10,11 @@ function add(){
 function eidt(){
     console.log("1")
 }
+var branch = "master"
 function branchTest(){
-  
+    if(branch == "master"){
+      console.log("master")
+    }
 }
 var a= ''
 var b = null
