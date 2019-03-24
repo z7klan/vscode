@@ -19,5 +19,5 @@ function branchTest(){
       console.log("123")
     }
 }
-var a= 'master branch'
+var a= 'master branch conflict'
 var b = null
