@@ -12,11 +12,12 @@ function eidt(){
 }
 var branch = "master"
 function branchTest(){
-  var name = "zjy"
+  var name = "z7klan"
     if(branch == "master"){
       console.log("master")
       console.log("qwe")
+      console.log("123")
     }
 }
-var a= 'master branch'
+var a= 'dev branch'
 var b = null
