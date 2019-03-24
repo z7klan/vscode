@@ -20,7 +20,11 @@ function branchTest(){
     }
 }
 function dev(){
-  
+  var obj = {
+    name: "z7klan",
+    age: 23
+  }
+  var arr = [1,2,3,4]
 }
 var a= 'dev branch'
 var b = null
