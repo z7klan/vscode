@@ -19,5 +19,8 @@ function branchTest(){
       console.log("123")
     }
 }
-var a= 'master branch'
+function dev(){
+  
+}
+var a= 'dev branch'
 var b = null
