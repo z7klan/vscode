@@ -15,6 +15,7 @@ function branchTest(){
   var name = "zjy"
     if(branch == "master"){
       console.log("master")
+      console.log("qwe")
     }
 }
 var a= 'master branch'
