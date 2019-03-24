@@ -26,5 +26,5 @@ function dev(){
   }
   var arr = [1,2,3,4]
 }
-var a= 'dev branch'
+var a= 'dev branch bug fixed'
 var b = null
