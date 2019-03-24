@@ -14,3 +14,4 @@ function branchTest(){
   
 }
 var a= ''
+var b = null
