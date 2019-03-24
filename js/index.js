@@ -7,3 +7,6 @@ function test() {
 function add(){
     return 2;
 }
+function eidt(){
+    
+}
